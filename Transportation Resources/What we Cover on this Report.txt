@@ -1,0 +1,12 @@
+1. Total Passenger Count
+2. Average Passenger Count per Journey
+3. Trend Analysist of Trips Over Time
+4. Most Active Operating Hour
+5. Least Active Operating Hour
+6. Distribution of Trip Across Diffrent Time Ranges
+7. Annual Rider Distrivution Analysis
+8. Monthly Rider Trends
+9. Weeday Patterns in Rider Numbers
+10. Classification of Bus Usage
+11. Route with Highest Passenger Traffic
+12. Route with Lowest Passenger Traffic

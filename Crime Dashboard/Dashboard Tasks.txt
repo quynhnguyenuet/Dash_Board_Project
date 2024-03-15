@@ -1,0 +1,10 @@
+1. Total Crimes:
+- Sum of all reported crimes in the dataset.
+2. Crime Distribution by Year and Yearly changes:
+- Analysis of crimes categoried, Include insight into the year-over-year changes.
+3. Crimes by Time Range(e.g., 3:00AM to 5:59 AM):
+- Eploration of crime occurrences within specific time intervals, providing a detailed breakdown
+4.Hitmap Showing Crim Distribution by Weekdays an Months:
+- Visualization using a hitmap to illustrate how crimes are distributed across weekdays and momths
+5. Crimes by Country:
+- Examination of crimes categorized by the country where the occurred

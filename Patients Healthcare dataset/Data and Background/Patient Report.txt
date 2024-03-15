@@ -1,0 +1,15 @@
+Patient Report
+
+1. Thời gian chờ trung bình: Khoảng thời gian bệnh nhân thường đợi trước cuộc hẹn. Khám phá các mô hình và xu hướng làm sáng tỏ hiệu quả của hệ thống chăm sóc sức khỏe
+
+2. Sự hài lòng của bệnh nhân:  khám phá điểm hài lòng trung bình mà bệnh nhân đưa ra. Tìm hiểu về các yếu tố góp phần mang lại trải nghiệm tích cực cho bệnh nhân và cách có thể nâng cao trải nghiệm đó.
+
+3. Tổng số lượt bệnh nhân đến thăm hàng tháng: Có được cái nhìn tổng quan về sự lên xuống của bệnh nhân mỗi tháng. Hiểu được nhu cầu chăm sóc sức khỏe theo thời gian.
+
+4. Các cuộc hẹn hành chính và phi hành chính: Đi sâu vào dữ liệu để phân biệt giữa các cuộc hẹn liên quan đến quy trình hành chính và những cuộc hẹn không liên quan đến quy trình hành chính. Khám phá tác động đến thời gian chờ đợi và sự hài lòng của bệnh nhân.
+
+5. Người được giới thiệu và Bệnh nhân đến khám: Khám phá sự cân bằng giữa bệnh nhân được giới thiệu đến các khoa cụ thể và những người đến mà không được giới thiệu trước. Điều này ảnh hưởng như thế nào đến trải nghiệm chung của bệnh nhân?
+
+6. Số lượt thăm khám của bệnh nhân theo nhóm tuổi và chủng tộc: Khám phá sự phân bổ số lượt thăm khám của bệnh nhân ở các nhóm tuổi và chủng tộc khác nhau. Có được cái nhìn sâu sắc về sự đa dạng của nhu cầu và sở thích chăm sóc sức khỏe.
+
+
