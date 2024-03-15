@@ -50,7 +50,8 @@
 * Total Patients = COUNTROWS('Patient Dataset')
 
 **Create Table Date**
- Date = 
+
+* Date = 
  ADDCOLUMNS(
     CALENDARAUTO(),
     "Year", YEAR([Date]),
