@@ -8,3 +8,12 @@
 - Visualization using a hitmap to illustrate how crimes are distributed across weekdays and momths
 5. Crimes by Country:
 - Examination of crimes categorized by the country where the occurred
+
+6. Total Resolved and Unresolved Crimes:
+   - Distinction between resolved and unresolved crimes, offering an overview of the overall resolution rate.
+
+7. Monthly Crime Trend with Percentage Variance:
+   - Analysis of the monthly crime trend, accompanied by the percentage variance to highlight fluctuations.
+
+8. Identification of the Most Dangerous Time of the Day:
+   - Exploration to pinpoint the specific time periods during the day associated with a higher frequency of crimes
