@@ -40,7 +40,7 @@
 ```dax
 Total Crimes = COUNTROWS('Crimes Data')
 ```
-**Crime Distribution by Year, Month and Yearly, Monthly Changes**
+*** Crime Distribution by Year, Month and Yearly, Monthly Changes ***
 * Label Yealy Changes
 ```dax
 Lebel (Year) = 
@@ -75,7 +75,7 @@ MOD(HOUR('Crimes Data'[Crime Time]),24)>=18 &&MOD(HOUR('Crimes Data'[Crime Time]
 MOD(HOUR('Crimes Data'[Crime Time]),24)>=21 &&MOD(HOUR('Crimes Data'[Crime Time]),24)<=24,"9:00 PM - 11:59 PM"
 )
 ```
-*** Total Resolved and Unresolved Crimes***
+*** Total Resolved and Unresolved Crimes ***
 * Resolved 
 ```dax
 Crimes Resolved = 
