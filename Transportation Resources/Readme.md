@@ -2,7 +2,8 @@
 
 
 ![Dashboard Image_1](https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Transportation%20Resources/Image/Report_1.PNG "Final Dashboard Image")
-![Dashboard Image_2](https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Transportation%20Resources/Image/Report_2.PNG "Final Dashboard Image")
+*
+![Dashboard Image_2](https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Transportation%20Resources/Image/Report_2.png "Final Dashboard Image")
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
