@@ -2,7 +2,7 @@
 * Light Background
 ![Dashboard Image_1](https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Power%20BI%20AW/Image/Light_BG.png "Final Dashboard Image")
 * Dark Background
-![Dashboard Image_2]https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Power%20BI%20AW/Image/Dark_BG.png "Final Dashboard Image")
+![Dashboard Image_2](https://github.com/quynhnguyenuet/Dash_Board_Project/blob/main/Power%20BI%20AW/Image/Dark_BG.png "Final Dashboard Image")
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
